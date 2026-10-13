@@ -9,12 +9,12 @@ Virtual Chase is a storm chase simulator that runs entirely in your browser, fro
 
 
 
-Radar: the national IEM composite, or full-resolution NOAA Level II for any site, archived or live. You can run two radar products side by side in split view and load your own GR2Analyst / GRLevel3 color tables.
+**Radar:** the national IEM composite, or full-resolution NOAA Level II for any site, archived or live. You can run two radar products side by side in split view and load your own GR2Analyst / GRLevel3 color tables.
 
-Driving: real road routing with posted speed limits, traffic lights, stop signs, train crossings and corner slowdowns. You can choose between alternate routes and re-route in the middle of a leg.
+**Driving: **real road routing with posted speed limits, traffic lights, stop signs, train crossings and corner slowdowns. You can choose between alternate routes and re-route in the middle of a leg.
 
-Storm awareness: NWS warning polygons, SPC storm reports, storm tracks, and storm motion measured from the radar itself. Map views show how far you can get in a given time and which roads will keep you clear of the core.
+**Storm awareness:** NWS warning polygons, SPC storm reports, storm tracks, and storm motion measured from the radar itself. Map views show how far you can get in a given time and which roads will keep you clear of the core.
 
-Chasing together: up to eight color-coded chasers, plus a no-peek mode that won’t let you look ahead on the radar.
+**Chasing together:** up to eight color-coded chasers, plus a no-peek mode that won’t let you look ahead on the radar.
 
-Export: GRLevelX placefiles, plus GPX, KML, CSV and GeoJSON tracks, and save files so you can reload a chase later.
+**Export:** GRLevelX placefiles, plus GPX, KML, CSV and GeoJSON tracks, and save files so you can reload a chase later.
